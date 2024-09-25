@@ -119,5 +119,5 @@ Sohel
 - Update the author section with your name.
 - Adjust any other sections as needed for your project.
 
-Feel free to customize it further to fit your project!
+Feel free  to customize it further to fit your project!
 ```
